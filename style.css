@@ -1,0 +1,36 @@
+body{
+	background-color: lightgrey;
+	align-c
+	margin-top: 300px;
+	margin-bottom: 300px;
+	margin-right: 300px;
+	margin-left: 300px;
+
+}
+form{
+	float: left;
+}
+h1{
+	text-align: center;
+	letter-spacing: 15px;
+	
+}
+p{
+	text-align: justify;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+h2{
+	text-align: center;
+	color: white;
+	background-color: grey;
+
+}
+#rojo{
+	color: red;
+	font-style: italic;
+}
+#subrayado{
+	background-color: whitesmoke;
+	font-weight: bold;
+}
