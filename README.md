@@ -1,7 +1,7 @@
 # Estructura Básica HTML-CSS.
 
 
-Esta es un Ejercicio Simple donde se emplean algunas etiquetas basicas de HTML y algunas clases en CSS.
+Esta es un ejercicio donde se elabora un documento simple HTML en el que se emplean algunas etiquetas basicas de HTML y algunas clases en CSS.
 
 ![Imagen Visual del documento HTML visto en el navegador Google Chrome](/Primer%20ejercicio%20Estructura%20Basica%20HTML.png)
 
