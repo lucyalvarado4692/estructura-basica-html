@@ -1,0 +1,47 @@
+body {
+  background-color: lightgrey;
+  margin: 5vw 10vw;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+  width: auto;
+}
+
+h1 {
+  text-align: center;
+  letter-spacing: 2vw;
+  font-weight: bold;
+  font-size: xx-large;
+}
+
+article {
+  padding: 5vw;
+}
+section{
+  display: flex;
+}
+
+p {
+  text-align: justify;
+  text-indent: 2vw;
+}
+
+.title {
+  background-color: gray;
+  padding: 0.1vw 2vw;
+}
+
+h2 {
+  color: white;
+  font-weight: bold;
+  font-size: x-large;
+}
+
+#rojo {
+  color: red;
+}
+
+#sombreado {
+  background-color: whitesmoke;
+}
